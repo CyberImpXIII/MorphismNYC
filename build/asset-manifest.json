@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MorphismNYC/static/css/main.aac73309.chunk.css",
-    "main.js": "/MorphismNYC/static/js/main.7051288d.chunk.js",
-    "main.js.map": "/MorphismNYC/static/js/main.7051288d.chunk.js.map",
-    "runtime-main.js": "/MorphismNYC/static/js/runtime-main.dfa26d34.js",
-    "runtime-main.js.map": "/MorphismNYC/static/js/runtime-main.dfa26d34.js.map",
-    "static/js/2.63bc94d9.chunk.js": "/MorphismNYC/static/js/2.63bc94d9.chunk.js",
-    "static/js/2.63bc94d9.chunk.js.map": "/MorphismNYC/static/js/2.63bc94d9.chunk.js.map",
-    "static/js/3.7874f247.chunk.js": "/MorphismNYC/static/js/3.7874f247.chunk.js",
-    "static/js/3.7874f247.chunk.js.map": "/MorphismNYC/static/js/3.7874f247.chunk.js.map",
-    "index.html": "/MorphismNYC/index.html",
-    "static/css/main.aac73309.chunk.css.map": "/MorphismNYC/static/css/main.aac73309.chunk.css.map",
-    "static/js/2.63bc94d9.chunk.js.LICENSE.txt": "/MorphismNYC/static/js/2.63bc94d9.chunk.js.LICENSE.txt",
-    "static/media/Morphism NYC inverted.35f8e731.png": "/MorphismNYC/static/media/Morphism NYC inverted.35f8e731.png"
+    "main.css": "/cyberimpxiii.github.io/MorphismNYC/static/css/main.aac73309.chunk.css",
+    "main.js": "/cyberimpxiii.github.io/MorphismNYC/static/js/main.7051288d.chunk.js",
+    "main.js.map": "/cyberimpxiii.github.io/MorphismNYC/static/js/main.7051288d.chunk.js.map",
+    "runtime-main.js": "/cyberimpxiii.github.io/MorphismNYC/static/js/runtime-main.9bab72b3.js",
+    "runtime-main.js.map": "/cyberimpxiii.github.io/MorphismNYC/static/js/runtime-main.9bab72b3.js.map",
+    "static/js/2.c418250c.chunk.js": "/cyberimpxiii.github.io/MorphismNYC/static/js/2.c418250c.chunk.js",
+    "static/js/2.c418250c.chunk.js.map": "/cyberimpxiii.github.io/MorphismNYC/static/js/2.c418250c.chunk.js.map",
+    "static/js/3.7874f247.chunk.js": "/cyberimpxiii.github.io/MorphismNYC/static/js/3.7874f247.chunk.js",
+    "static/js/3.7874f247.chunk.js.map": "/cyberimpxiii.github.io/MorphismNYC/static/js/3.7874f247.chunk.js.map",
+    "index.html": "/cyberimpxiii.github.io/MorphismNYC/index.html",
+    "static/css/main.aac73309.chunk.css.map": "/cyberimpxiii.github.io/MorphismNYC/static/css/main.aac73309.chunk.css.map",
+    "static/js/2.c418250c.chunk.js.LICENSE.txt": "/cyberimpxiii.github.io/MorphismNYC/static/js/2.c418250c.chunk.js.LICENSE.txt",
+    "static/media/Morphism NYC inverted.35f8e731.png": "/cyberimpxiii.github.io/MorphismNYC/static/media/Morphism NYC inverted.35f8e731.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dfa26d34.js",
-    "static/js/2.63bc94d9.chunk.js",
+    "static/js/runtime-main.9bab72b3.js",
+    "static/js/2.c418250c.chunk.js",
     "static/css/main.aac73309.chunk.css",
     "static/js/main.7051288d.chunk.js"
   ]
